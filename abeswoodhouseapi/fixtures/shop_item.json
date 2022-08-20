@@ -1,0 +1,22 @@
+[
+    {
+        "model": "abeswoodshopapi.shop_item",
+        "pk": 1,
+        "fields": {
+            "title": "Carved Platter",
+            "description": "Hand-carved platter from natural fallen redwood",
+            "price": 45.00,
+            "type": "Dishware"
+        }
+    },
+    {
+        "model": "abeswoodshopapi.shop_item",
+        "pk": 2,
+        "fields": {
+            "title": "Hand-Turned Salt Cellar",
+            "description": "Hand-carved salt cellar from natural fallen redwood with hinged slide top",
+            "price": 25.00,
+            "type": "Dishware"
+        }
+    },
+]
