@@ -1,5 +1,6 @@
 from django.db import models
 
+
 class ShopItem(models.Model):
     """Represents an item in the shop"""
     

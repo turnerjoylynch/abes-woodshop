@@ -1,1 +1,1 @@
-from models import ShopItem
+from .shop_item import ShopItem
